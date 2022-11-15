@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: nolan.alexandre@icloud.com
+  DevAccountToken: 7i9iat5osuwtq6ik5hc5rn1qmuz4awjy54a6t53dkyargtqhtn9a5xm458gm3hfnipxhz7snojnusfuikdabebrx61z6oweg98ghx761e1938c4oi66zcfa1n4d7nbyx4benzejgax966jo7k6sqfk89i8u9c1e1pjzhs8wrxwfogjbd5r3517w8pc81h9w9mz7dram6
+  SelectedStudio: Helioce Games
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
